@@ -25,6 +25,7 @@ public class DriverFactory {
 
 	public WebDriver driver;
 	public Properties prop;
+	String remove;
 
 	private static final Logger LOG = Logger.getLogger(DriverFactory.class);
 
